@@ -6,9 +6,9 @@
 
 # :brain: : funcionalidades
 
-- Funcionalidade de login`: descrição da funcionalidade 1
-- Funcionalidade do modo escuro : descrição da funcionalidade 2
-- Funcionalidade de cntato com o pisicologo : descrição da funcionalidade 3 
+- Funcionalidade de login`:fornece um sistema de cadastro ao usuario 
+- Funcionalidade do modo escuro : disponibilidade dos modos claro e escuro
+- Funcionalidade de contato com o pisicologo : contato com o pisicologo on-line 
 
 # :heavy_check_mark: Tecnologias Utilizadas
 
